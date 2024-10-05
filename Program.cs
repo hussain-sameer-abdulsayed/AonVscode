@@ -3,10 +3,10 @@ using System;
 
 const string USERNAME = "Aon";
 const string PASSWORD = "123";
-bool isEmpty = false;
+bool isEmpty = true;
 
 Console.WriteLine("*******************  Login System  *******************");
-while(!isEmpty){
+while(isEmpty){
 Console.WriteLine("Enter your username");
 string inputUserName = Console.ReadLine();
 if (string.IsNullOrEmpty(inputUserName)){
@@ -25,7 +25,7 @@ if(inputUserName != USERNAME || inputPassword != PASSWORD){
    Console.WriteLine("Your username or password is incorrect");
    continue;
 }
-   isEmpty = true;
+   isEmpty = false;
 }
 
 
