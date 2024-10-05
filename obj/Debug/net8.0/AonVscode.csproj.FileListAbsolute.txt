@@ -1,0 +1,14 @@
+C:\Users\saram\AonVscode\bin\Debug\net8.0\AonVscode.exe
+C:\Users\saram\AonVscode\bin\Debug\net8.0\AonVscode.deps.json
+C:\Users\saram\AonVscode\bin\Debug\net8.0\AonVscode.runtimeconfig.json
+C:\Users\saram\AonVscode\bin\Debug\net8.0\AonVscode.dll
+C:\Users\saram\AonVscode\bin\Debug\net8.0\AonVscode.pdb
+C:\Users\saram\AonVscode\obj\Debug\net8.0\AonVscode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saram\AonVscode\obj\Debug\net8.0\AonVscode.AssemblyInfoInputs.cache
+C:\Users\saram\AonVscode\obj\Debug\net8.0\AonVscode.AssemblyInfo.cs
+C:\Users\saram\AonVscode\obj\Debug\net8.0\AonVscode.csproj.CoreCompileInputs.cache
+C:\Users\saram\AonVscode\obj\Debug\net8.0\AonVscode.dll
+C:\Users\saram\AonVscode\obj\Debug\net8.0\refint\AonVscode.dll
+C:\Users\saram\AonVscode\obj\Debug\net8.0\AonVscode.pdb
+C:\Users\saram\AonVscode\obj\Debug\net8.0\AonVscode.genruntimeconfig.cache
+C:\Users\saram\AonVscode\obj\Debug\net8.0\ref\AonVscode.dll
