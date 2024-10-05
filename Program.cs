@@ -3,27 +3,31 @@ using System;
 
 const string USERNAME = "Aon";
 const string PASSWORD = "123";
+bool isEmpty = false;
 
 Console.WriteLine("*******************  Login System  *******************");
-
+while(!isEmpty){
 Console.WriteLine("Enter your username");
 string inputUserName = Console.ReadLine();
 if (string.IsNullOrEmpty(inputUserName)){
    Console.WriteLine("Invalid username!");
-   return;
+   continue;
 }
 
 Console.WriteLine("Enter your password");
 string inputPassword = Console.ReadLine();
 if (string.IsNullOrEmpty(inputPassword)){
    Console.WriteLine("Invalid password!");
-   return;
+   continue;
 }
 
 if(inputUserName != USERNAME || inputPassword != PASSWORD){
    Console.WriteLine("Your username or password is incorrect");
-   return;
+   continue;
 }
+   isEmpty = true;
+}
+
 
 Random rnd = new Random();
 string otp = rnd.Next(100000, 999999).ToString();

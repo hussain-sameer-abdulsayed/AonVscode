@@ -12,3 +12,4 @@ C:\Users\saram\AonVscode\obj\Debug\net8.0\refint\AonVscode.dll
 C:\Users\saram\AonVscode\obj\Debug\net8.0\AonVscode.pdb
 C:\Users\saram\AonVscode\obj\Debug\net8.0\AonVscode.genruntimeconfig.cache
 C:\Users\saram\AonVscode\obj\Debug\net8.0\ref\AonVscode.dll
+C:\Users\saram\AonVscode\obj\Debug\net8.0\AonVscode.sourcelink.json
